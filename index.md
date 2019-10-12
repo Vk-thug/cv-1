@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html>
+<title>Vikram Kumar</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href="bootstrap.min.css" rel="stylesheet">
+    <link href="personalcss.css" rel="stylesheet">
+<link rel="stylesheet" href="w3css.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="vk.jpg" style="width:100%" alt="VK">
+
+        </div>
+        <div class="w3-container">
+                    <div class="w3-container w3-text-black">
+            <h2>Vikram Venkatesh Kumar</h2>
+          </div>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-black"></i>Full Stack Developer</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-black"></i>Chennai,TamilNadu</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-black"></i>avikramastro@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-black"></i>7867974625</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-black"></i>Technical Skills</b></p>
+          <p>HTML</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:95%">95%</div>
+          </div>
+          <p>CSS</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>Javascript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:75%">75%</div>
+          </div>
+          <p>Mysql</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:90%">90%</div>
+          </div>
+          <p>C#</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:85%">85%</div>
+          </div>
+          <p>Wordpress</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="height:15px;width:70%">70%</div>
+          </div>
+          <hr>
+
+             <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-black"></i>Professional Skills</b></p>
+          <p>Communication</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="height:15px;width:80%">80%</div>
+          </div>
+          <p>Team Work</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="height:15px;width:90%">
+              <div class="w3-center w3-text-white">90%</div>
+            </div>
+          </div>
+          <p>Project Management</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="height:15px;width:85%">85%</div>
+          </div>
+          <p>Creativity</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="height:15px;width:90%">90%</div>
+          </div>
+          <hr>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-black"></i>Languages</b></p>
+          <p>Tamil</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:15px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:15px;width:85%"></div>
+          </div>
+          <p>Hindi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-blue" style="height:15px;width:55%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+            <div class="w3-white w3-text-grey w3-card-4">
+       
+        <div class="w3-container">
+                   <div class="w3-container w3-text-black">
+            <h2>Principal Facts</h2>
+  <div class="row">
+
+      <div class="col-lg-6 col-sm-6">
+          <h3 class="w3-opacity w3-text-black"><b>4</b></h3><br><h5 class="w3-text-black"> Sucessfull Projects</h3>
+      </div>
+      <div class="col-lg-6 col-sm-6">
+          <h3 class="w3-opacity w3-text-black"><b>2</b></h3><br><h5 class="w3-text-black">Happy  Clients</h5>
+      </div>
+    </div>
+    <div class="row">
+       <div class="col-lg-6 col-sm-6">
+          <h3 class="w3-opacity w3-text-black"><b>0</b></h3><br><h5 class="w3-text-black"> Awards Won</h3>
+      </div>
+       <div class="col-lg-6 col-sm-6">
+          <h3 class="w3-opacity w3-text-black"><b>6</b></h3><br><h5 class="w3-text-black">Keyboard Broken</h3>
+      </div>
+    </div>
+          </div>
+        </div>
+      </div><br>
+
+            <div class="w3-white w3-text-grey w3-card-4">
+       
+        <div class="w3-container">
+                   <div class="w3-container w3-text-black">
+            <h2>Lastest Projects</h2>
+  <div class="row">
+
+            <div class="col-xs-12">
+
+        <div class="feature-box">
+
+     
+
+       <img src="megadotshop.PNG" alt="megadotshop" title="megadotshop" class="w3-round" style="height: 150px; width: 300px;"/>
+
+  
+
+          <h3 class="w3-text-black">E-Commerce Website</h3>
+
+        </div>
+
+      </div>
+    </div>
+      <div class="row">
+
+            <div class="col-xs-12">
+
+        <div class="feature-box">
+
+     
+
+       <img src="megadotshop.PNG" alt="megadotshop" title="megadotshop" class="w3-round" style="height: 150px; width: 300px;"  />
+
+  
+
+          <h3 class="w3-text-black">Web Application</h3>
+
+        </div>
+
+      </div>
+    </div>
+     <div class="row">
+
+            <div class="col-xs-12">
+
+        <div class="feature-box">
+
+     
+
+       <img src="friends.PNG" alt="Wipro" title="Wipro" class="w3-round" style="height: 150px; width: 300px;" />
+
+  
+
+          <h3 class="w3-text-black">Friend Association Website</h3>
+
+        </div>
+
+      </div>
+    </div>
+          </div>
+        </div>
+      </div><br>
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+
+       <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>About Me</h2>
+           <div class="w3-container">
+          <p>Hello, I’m a Vikram Kumar, Full Stack Developer with rich experience in designing and developing user interfaces, testing, debugging, and training staff within eCommerce and ERP technologies. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies.</p>
+          <!---h6 class="w3-text-teal"> <span class="w3-tag w3-blue w3-round">Angular</span> <span class="w3-tag w3-blue w3-round">Azure</span> <span class="w3-tag w3-blue w3-round">Javascript</span> <span class="w3-tag w3-blue w3-round">CSS</span> <span class="w3-tag w3-blue w3-round">Dot.Net</span> <span class="w3-tag w3-blue w3-round">PHP</span></h6--->
+          <hr>
+        </div>
+
+       </div>
+
+              <div class="w3-container w3-card w3-dark-grey w3-margin-bottom w3-center">
+          <h2 class="w3-text-white w3-padding-16 w3-center">Have a Look at my Services</h2>
+             <div class="row">
+
+      <div class="col-lg-6 col-sm-6">
+  
+        <div class="feature-box">
+                 <div class="service-icon">
+          <i class="material-icons" style="font-size:36px">desktop_windows</i>
+        </div>
+
+          <h3 class="w3-opacity w3-text-black"><b>Web Development</b></h3>
+
+          <p class="w3-opacity w3-text-black">Building a custom tailored solution based on your technical specification</p>
+
+        </div> 
+
+
+      </div>
+
+      <div class="col-lg-6 col-sm-6">
+
+        <div class="feature-box">
+
+        <div class="service-icon">
+          <i class="fa fa-code iron-color"></i>
+        </div>
+          <h3 class="w3-opacity w3-text-black"><b>Application Development</b></h3>
+
+          <p class="w3-opacity w3-text-black">Building a customized application  based on your  specification</p>
+        </div>
+
+      </div>
+    </div>
+                 <div class="row">
+
+    <div class="col-lg-6 col-sm-6">
+
+        <div class="feature-box">
+
+        <div class="service-icon">
+          <i class="fa fa-database" style="font-size:36px"></i>
+        </div>
+          <h3 class="w3-opacity w3-text-black"><b>Data base</b></h3>
+
+          <p class="w3-opacity w3-text-black">SSL certificate installation and configuration, redirection configuration on your website.</p>
+        </div>
+
+      </div>
+
+      <div class="col-lg-6 col-sm-6">
+
+        <div class="feature-box">
+
+        <div class="service-icon">
+          <i class="fa fa-expeditedssl" style="font-size:36px"></i>
+        </div>
+          <h3 class="w3-opacity w3-text-black"><b>Data security</b></h3>
+
+          <p class="w3-opacity w3-text-black">Strategy with leading data protection technology to safeguard your critical data.</p>
+        </div>
+
+      </div>
+    </div>
+       </div>
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Full Stack Developer / Vcidex Solution</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - <span class="w3-tag w3-teal w3-round"> NOWADAYS</span></h6>
+          <p>Facilitating cutting-edge engineering solutions with a wide range of e-commerce ,ERP application and technology skills.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Software Trainee / Megadot Computer</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2018 - Dec 2019</h6>
+          <p>Partnered with designers to implement custom web-based simulations for client review.</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-black"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Degree</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2019</h6>
+          <p>Bachelor Degree in Electronics and Communication Engineering at Einstein College of Engineering,Tirunelveli with <b>76.2%</b>.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>HSC</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014 - 2015</h6>
+          <p>HSC at A.U.P.E.T Chinmaya Matric Hr Sec school, Tirunelveli with <b>87.33%</b>.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>SSLC</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2012 - 2013</h6>
+          <p>SSLC at Meenakshi Matric school, Tirunelveli with <b>95.6%</b>.</p><br>
+        </div>
+      </div>
+         <div class="w3-container w3-card w3-dark-grey w3-margin-bottom w3-center">
+          <h2 class="w3-text-white w3-padding-16 w3-center">my Pricing</h2>
+             <div class="row">
+
+     <div class="col-xs-12 col-sm-4">
+  
+        <div class="feature-box1">
+          <h6 class="w3-text-teal"><i class="fa fa-calendar w3-xxlarge fa-fw w3-center"></i></h6>
+
+          <h3 class="w3-text-black"><b>Full-time work</b></h3>
+          <h6 class="w3-text-black">I am available for full time</h6><br>
+
+          <h1 class="w3-text-black"><b>$500</b></h1><br>
+
+          <h6 class="w3-text-black">consulting</h6>
+          <h6 class="w3-text-black">development</h6>
+          <h6 class="w3-text-black">optimisation</h6>
+          <h6 class="w3-text-black">24/7 support</h6>
+          
+        <div class="learn-more-div">
+
+          <a href="" class="btn btn-lg learn-more-btn">Hire Me</a>
+
+        </div>
+
+        </div> 
+
+
+      </div>
+
+      <div class="col-xs-12 col-sm-4">
+
+        <div class="feature-box1">
+                       <h6 class="w3-text-teal">
+                        <i class="fa fa-file-text-o" style="font-size:36px;"></i></h6>
+
+          <h3 class="w3-text-black"><b>Fixed Price Project</b></h3>
+          <h6 class="w3-text-black">I am available for fixed roles</h6><br>
+
+          <h1 class="w3-text-black"><b>$300</b></h1><br>
+
+          <h6 class="w3-text-black">consulting</h6>
+          <h6 class="w3-text-black">development</h6>
+          <h6 class="w3-text-black">optimisation</h6>
+          <h6 class="w3-text-black">24/7 support</h6>
+          
+        <div class="learn-more-div">
+
+          <a href="" class="btn btn-lg learn-more-btn">Hire Me</a>
+
+        </div>
+
+        </div>
+
+      </div>
+  
+
+   <div class="col-xs-12 col-sm-4">
+
+        <div class="feature-box1">
+
+                              <h6 class="w3-text-teal"><i class="fa fa-hourglass-o" style="font-size:36px"></i></h6>
+
+          <h3 class="w3-text-black"><b>Hourley work</b></h3>
+          <p class="w3-text-black">I am available for Hourley projets</p><br>
+
+          <h1 class="w3-text-black"><b>$50</b></h1><br>
+
+          <h6 class="w3-text-black">consulting</h6>
+          <h6 class="w3-text-black">development</h6>
+          <h6 class="w3-text-black">optimisation</h6>
+          <h6 class="w3-text-black">24/7 support</h6>
+          
+        <div class="learn-more-div">
+
+          <a href="#" class="btn btn-lg learn-more-btn">Hire Me</a>
+
+        </div>
+        </div>
+
+      </div>
+
+     
+
+      </div>
+    </div>
+
+     <div class="w3-container w3-card w3-white w3-margin-bottom">
+
+        <h2 class="w3-text-black w3-padding-16">Get In Touch</h2>
+          <input class="w3-input w3-animate-input" type="text" style="width:735px" placeholder="First Name"><br>
+   <input class="w3-input w3-animate-input" type="text" style="width:735px" placeholder="Last Name"><br>
+      <input class="w3-input w3-animate-input w3-text-green" type="text" style="width:735px" placeholder="E-mail"><br>
+      <br>
+      <br>
+      <input class="w3-input w3-animate-input w3-text-green" type="text" style="width:735px" placeholder="Message"><br>
+      <br>
+      <br>
+
+      <div class="learn-more-div">
+
+          <a href="#" class="btn btn-lg learn-more-btn">send message</a>
+
+        </div>
+        <br>
+         <br>
+           
+      </div>
+       </div>
+
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-dark-grey w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+ <a href="#" target="_blank"> <i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+ <a href="#" target="_blank">  <i class="fa fa-instagram w3-hover-opacity"></i></a>
+ <a href="#" target="_blank">  <i class="fa fa-pinterest-p w3-hover-opacity"></i></a>
+  <p>All right reserved Vikram Kumar @ 2019</p>
+</footer>
+
+</body>
+</html>
